@@ -23,7 +23,7 @@ Notes:
   - Assembly requires nasm (The Netwide Assembler)
 ```
 # Performance
-Using the popular mandelbrot.bf as a benchark on my Ryzen 5 2500U laptop running Debian:
+Using the popular mandelbrot.bf as a benchmark on my Ryzen 5 2500U laptop running Debian:
  - Interpreted: 17 seconds
  - Compiled: 3.1 seconds
  - Compiled with Optimizations: 1.0 seconds
