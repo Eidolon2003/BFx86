@@ -1,6 +1,6 @@
 # About
 This was my capstone project. It's a Linux CLI application, written in C, for translating brainfuck code into x86-64 assembly for the AMD64 Linux platform.
-In addition to compiling standalone programs, it also supports compiling functions which can be linked into larger programs. The programs comes with a help menu, which looks like this:
+In addition to compiling standalone programs, it also supports compiling functions which can be linked into larger programs. The program comes with a help menu, which looks like this:
 ```
 Usage: bf [OPTIONS] FILE
 
