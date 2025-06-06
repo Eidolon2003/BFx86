@@ -1,0 +1,3 @@
+run multiple tokenization passes to clean up the actual compilation function at the end
+more loop recognition as a later pass
+	Turn [->+<] into an add, but also [->+++<] into a multiply by 3 and add
